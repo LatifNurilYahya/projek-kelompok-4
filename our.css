@@ -1,0 +1,62 @@
+
+body{
+  background: beige;
+  font-family: monospace;
+}
+
+h1 {
+  color: deeppink;
+  font-size: 65px;
+  text-align: right;
+}
+
+h2 {
+  color: deeppink;
+  font-size: 30px;
+  text-align: left;
+}
+
+div {
+  font-size: 15px;
+  color: white;
+  text-align: justify;
+  background-color: hotpink ;
+  justify-content: left;
+  border:25PX blueviolet ;
+  padding:50PX ;
+  margin: 20PX;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+    list-style-type: none;
+
+}
+
+.container-table {
+  padding: 8px;
+  text-align: left;
+}
+
+.container-table2 {
+  padding: 8px;
+  text-align: left;
+}
+
+.container-table3 {
+  padding: 8px;
+  text-align: left;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+#marquee {
+  padding: 20px;
+}
+
+.container-table tr td{
+
+}
